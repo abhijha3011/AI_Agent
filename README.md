@@ -7,18 +7,15 @@ Enhance responses with real-time web search using Tavily.
 Instantly switch between expert personas (General Assistant, Analyst, Teacher, Debugger, AI Use Case Advisor) for tailored answers.
 ### Chat Import: 
 Import previous chat histories for seamless context and continuity.
-
-### PDF Upload & Q&A: 
+## PDF Upload & Q&A: 
 Upload PDF documents and ask questions about their content.
-
-### Multi-turn Conversations: 
+## Multi-turn Conversations: 
 Maintain full context across follow-up questions and answers.
-
-### Model Selection: 
+## Model Selection: 
 Choose from available Groq models, updated dynamically from the API.
-### User-friendly Interface: 
+## User-friendly Interface: 
 Streamlit-powered UI for easy interaction and control.
-
-### Extensible Backend: FastAPI endpoints for chat, health checks, and model listing.
+## Extensible Backend: 
+FastAPI endpoints for chat, health checks, and model listing.
 
 This platform is ideal for research, education, technical support, and AI solution prototyping.
