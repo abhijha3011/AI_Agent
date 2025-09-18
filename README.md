@@ -1,12 +1,10 @@
 # AI_Agent
 Agentic AI is a modular platform for interactive chat, financial analysis, debugging, and AI use case advising. Built with FastAPI, LangGraph, and Streamlit, it supports dynamic model selection via Groq API and contextual multi-turn conversations. Key features include:
 
-### Web Search Integration: 
+## Web Search Integration: 
 Enhance responses with real-time web search using Tavily.
-
-### Dynamic Persona Control: 
+## Dynamic Persona Control: 
 Instantly switch between expert personas (General Assistant, Analyst, Teacher, Debugger, AI Use Case Advisor) for tailored answers.
-
 ### Chat Import: 
 Import previous chat histories for seamless context and continuity.
 
